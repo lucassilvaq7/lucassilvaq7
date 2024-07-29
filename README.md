@@ -12,7 +12,7 @@
 <hr>
 
 ![lucassilvaq7's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucassilvaq7&show_icons=true&theme=midnight-purple)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvaq7&layout=donut)](https://github.com/lucassilvaq7/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassilvaq7&layout=donut)](https://github.com/lucassilvaq7)
 
 <hr>
 
