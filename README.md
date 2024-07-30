@@ -18,4 +18,4 @@
 
 ## Fale comigo!!
 
-<a href="https://discord.gg/lucas-silva/lucassilvaq7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
+<a href="https://discord.gg/lucassilvaq7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="blank"></a>
